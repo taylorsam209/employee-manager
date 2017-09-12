@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 class EmployeeList extends Component {
-  render() {
+render() {
     return (
       <div>
         <ul className="listContainer">
